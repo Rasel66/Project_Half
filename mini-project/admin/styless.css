@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.logo img {
+    width: 100px;
+}
+.title a {
+    text-decoration: none;
+    font-size: 30px;
+    line-height: 86px;
+    color: black;
+    font-weight: 500;
+    font-family: revert;
+}
+.btn a {
+    display: inline-block;
+    margin-right: 12px;
+}
+.btn {
+    margin-top: 11px;
+    margin-left: 9px;
+}
+.show-info {
+    text-align: center;
+}
+.I-top img {
+    height: 150px;
+}
+.I-bottom {
+    margin-top: 10px;
+    background: #ededed;
+    padding: 13px 0;
+    border-radius: 5px;
+}
